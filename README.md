@@ -59,18 +59,58 @@ ________________________________________
 7.3 Prepare a brief presentation if required (optional)
 ________________________________________
 # Prompts
-1. Act as an AI researcher and technical writer. Explain the foundational concepts of Generative AI in a clear, well-structured, and beginner-friendly manner. Include an introduction, definition, working principle, core technologies (Machine Learning, Deep Learning, Neural Networks, Transformers, and Large Language Models), popular Generative AI models, advantages, limitations, and real-world applications. Use Markdown headings, bullet points, and simple language suitable for engineering students. Keep the content concise while covering all essential concepts.
+1. **Role:** Act as a Senior AI Researcher and Technical Educator specializing in Generative AI, Machine Learning, and Deep Learning.
+
+**Context:** I am an undergraduate engineering student studying Prompt Engineering, with basic programming knowledge. I am comparing different Generative AI tools using identical prompts.
+
+**Task:** Explain the foundational concepts of Generative AI, including its definition, evolution, working principles, and differences from traditional AI. Cover Machine Learning, Deep Learning, Neural Networks, NLP, Transformers, LLMs, popular Generative AI models, advantages, limitations, and real-world applications.
+
+**Requirements:** Use beginner-friendly explanations, accurate technical information, a practical example, and a simple workflow diagram. Avoid unsupported claims and fabricated information.
+
+**Output Format:** Present a well-structured Markdown report (800–1,000 words) with headings, bullet points, a comparison table, and a concise conclusion.
 ---
 
-2. Act as a Generative AI expert. Explain the major Generative AI architectures, including Transformers, Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Diffusion Models. Describe how each architecture works, its key components, strengths, limitations, and common applications. Include a comparison table highlighting their primary use cases, advantages, and trade-offs. Format the response in Markdown with clear headings and concise explanations suitable for a technical report.
+2. **Role:** Act as a Generative AI Architect and Deep Learning Expert specializing in neural network architectures.
+
+**Context:** I am an undergraduate Prompt Engineering student learning how Generative AI models are designed and how different architectures work.
+
+**Task:** Explain the major Generative AI architectures: Transformers, GANs, VAEs, and Diffusion Models. Describe their working principles, key components, strengths, limitations, and applications. Give special attention to Transformers, including self-attention, multi-head attention, and encoder-decoder structures.
+
+**Requirements:** Explain technical concepts clearly, include a simple architecture diagram, and compare the models based on performance, applications, and engineering trade-offs. Avoid unsupported claims.
+
+**Output Format:** Write an 800–1,000-word Markdown technical report with headings, bullet points, a comparison table, practical examples, and a conclusion.
 ---
-3. Act as an AI engineer. Explain the overall architecture of Generative AI systems, including the complete workflow from data collection, preprocessing, model training, inference, fine-tuning, and deployment. Describe how different architectures such as Transformers, GANs, VAEs, and Diffusion Models contribute to various applications. Include real-world use cases in healthcare, education, software development, content generation, customer support, marketing, and scientific research. Present the content in Markdown with headings, tables, and bullet points suitable for an academic report.
+3. **Role:** Act as a Senior Generative AI Engineer and AI Solutions Architect experienced in developing real-world AI applications.
+
+**Context:** I am an undergraduate engineering student studying Prompt Engineering and learning how Generative AI systems are designed, developed, and deployed.
+
+**Task:** Explain the overall architecture and workflow of Generative AI systems, including data collection, preprocessing, model selection, training, fine-tuning, inference, and deployment. Describe how Transformers, GANs, VAEs, and Diffusion Models support applications in healthcare, education, software development, customer support, marketing, content creation, and scientific research.
+
+**Requirements:** Include a step-by-step workflow, real-world engineering examples, architectural advantages, limitations, and practical implementation considerations. Ensure technical accuracy.
+
+**Output Format:** Prepare an 800–1,000-word Markdown report with headings, bullet points, a system architecture diagram, an application comparison table, and a conclusion.
 ---
 
-4. Act as a Large Language Model researcher. Explain the impact of scaling in Large Language Models by discussing model parameters, training datasets, compute resources, scaling laws, and inference-time scaling. Describe how scaling improves accuracy, reasoning, multilingual capabilities, and few-shot learning while also discussing computational cost, energy consumption, bias, hallucinations, and deployment challenges. Include a comparison table of benefits and limitations, and present the explanation in concise Markdown suitable for engineering students.
+4.**Role:** Act as an LLM Research Scientist and AI Performance Engineer specializing in model scaling and optimization.
+
+**Context:** I am an undergraduate Prompt Engineering student exploring how model size, training data, and computational resources influence Large Language Model performance.
+
+**Task:** Explain the impact of scaling in LLMs, covering model parameters, training datasets, computational resources, scaling laws, and inference-time scaling. Discuss effects on accuracy, reasoning, multilingual capabilities, and few-shot learning, along with challenges such as hallucinations, bias, energy consumption, cost, and deployment complexity.
+
+**Requirements:** Explain scaling laws with a simple mathematical example, compare small and large LLMs, and discuss performance benefits and engineering trade-offs. Avoid unsupported numerical claims and clarify that larger models are not always better.
+
+**Output Format:** Write an 800–1,000-word Markdown technical report with headings, bullet points, comparison tables, an example, and a concise conclusion.
 ---
 
-5. Act as an AI systems engineer. Explain what a Large Language Model (LLM) is and describe the complete pipeline used to build one. Cover data collection, preprocessing and tokenization, Transformer architecture, pre-training, fine-tuning, reinforcement learning from human feedback (RLHF), evaluation, inference, and deployment. Explain each stage briefly, include key components such as embeddings, attention mechanisms, parameters, and tokens, and discuss common applications and challenges. Format the response in Markdown with headings, numbered steps, and bullet points suitable for a GitHub README and technical report.
+5.**Role:** Act as a Senior LLM Engineer and NLP Researcher specializing in Transformer-based language models and AI development.
+
+**Context:** I am an undergraduate engineering student studying Prompt Engineering, with basic Python and Machine Learning knowledge. I want to understand how LLMs are built and deployed.
+
+**Task:** Define Large Language Models and explain their complete development pipeline: data collection, preprocessing, tokenization, Transformer architecture, pretraining, fine-tuning, RLHF, evaluation, inference, and deployment. Explain tokens, embeddings, attention mechanisms, model parameters, applications, and technical challenges.
+
+**Requirements:** Describe each stage step by step, include a simple development flowchart, distinguish training from inference, and provide a practical Python example using a pretrained language model. Ensure technical accuracy and avoid fabricated information.
+
+**Output Format:** Prepare an 800–1,000-word Markdown report with numbered steps, headings, bullet points, a comparison table, a short code example, and a conclusion, suitable for a GitHub README.
 ---
 # Output
 ## 1.	Explain the foundational concepts of Generative AI.
