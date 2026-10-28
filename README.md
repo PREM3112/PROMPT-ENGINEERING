@@ -59,6 +59,7 @@ ________________________________________
 7.3 Prepare a brief presentation if required (optional)
 ________________________________________
 # Prompts
+```
 1. **Role:** Act as a Senior AI Researcher and Technical Educator specializing in Generative AI, Machine Learning, and Deep Learning.
 
 **Context:** I am an undergraduate engineering student studying Prompt Engineering, with basic programming knowledge. I am comparing different Generative AI tools using identical prompts.
@@ -112,6 +113,7 @@ ________________________________________
 
 **Output Format:** Prepare an 800–1,000-word Markdown report with numbered steps, headings, bullet points, a comparison table, a short code example, and a conclusion, suitable for a GitHub README.
 ---
+```
 # Output
 ## 1.	Explain the foundational concepts of Generative AI.
 ## ChatGPT:
